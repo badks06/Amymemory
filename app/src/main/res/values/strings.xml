@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="btnSave">Save</string>
+    <string name="Score">Score: </string>
+    <string name="Best_Score">Best Score:</string>
+    <string name="Level_Easy">Easy ( 4 x 2 )</string>
+    <string name="Level_Medium">Medium ( 6 x 3 )</string>
+    <string name="Level_Hard">Hard ( 6 x 4 )</string>
+    <string name="Choose_new_size">Choose new Size</string>
+    <string name="Create_Custom_Game">Create Custom Game</string>
+    <string name="Download_Custom_Game">Download Custom Game</string>
+    <string name="Moves">Moves:</string>
+    <string name="Choose_Pic">Choose pics (0 /</string>
+    <string name="In_Order_To">In order to create a custom game, you need to your photos</string>
+    <string name="saveDataToFirebase">saveDataToFirebase</string>
+    <string name="game_already_exists">A game already exists with the name</string>
+    <string name="choose_another">Please chose another</string>
+    <string name="Error_saving">Encountered error while saving memory game</string>
+    <string name="Error_Firebase">exception with Firebase storage</string>
+   <string name="Failed_Upload_Image">Failed to upload Image</string>
+    <string name="Finished_uploading">Finished uploading</string>
+    <string name="Erreur_creation">Exception with game creation</string>
+    <string name="SuccessGameCreated">Successfully created game</string>
+    <string name="UploadComplete">Upload complete! Let\'s play your game</string>
+    <string name="QuitGame">Quit your current game?</string>
+    <string name="InvalidGame">Invalid custom game data from Firestore</string>
+    <string name="NoGame">Sorry, we couldn\'t find any such game</string>
+    <string name="Playing">You\'re now playing</string>
+    <string name="ErreurRecupJeu">Exception when retrieving game</string>
+    <string name="Creatememory">Create your own memory board</string>
+    <string name="ChooseSize">Choose new size</string>
+    <string name="Cancel">Cancel</string>
+    <string name="AlreadyWon">You already won!</string>
+    <string name="InvalidMove">Invalid move!</string>
+    <string name="AlreadyLost">You already lost!</string>
+    <string name="FetchMemory">Fetch memory game</string>
+
+
+
+
+
+
+    <!--    <string name="Pairs">Paires</string>-->
+
+</resources>

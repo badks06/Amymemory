@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jeu de Memory Animaux</string>
+    <string name="btnSave">Sauvegarder</string>
+    <string name="Moves">Mouvements:</string>
+<!--    <string name="Pairs">Paires</string>-->
+    <string name="Level_Easy">Facile ( 4 x 2 )</string>
+    <string name="Level_Medium">Moyen ( 6 x 3 )</string>
+    <string name="Level_Hard">Difficile ( 6 x 4)</string>
+    <string name="Choose_new_size">Choix Taille</string>
+    <string name="Create_Custom_Game">Créer jeu personalisé</string>
+    <string name="Download_Custom_Game">Télécharger jeu personnalisé</string>
+    <string name="Score">Score:</string>
+    <string name="Best_Score">Meilleur Score:</string>
+    <string name="Choose_Pic">Choix Images (0/</string>
+    <string name="In_Order_To">Pour créer un jeu personnalisé, nous avons besoin d\'accéder à vos photos</string>
+    <string name="saveDataToFirebase">Donnés enregistrés dans Firebase</string>
+    <string name="game_already_exists">Un jeu existe déjà</string>
+    <string name="choose_another">Merci de choisir un autre nom</string>
+    <string name="Error_saving">Erreur de sauvegarde</string>
+    <string name="Error_Firebase">Erreur d\'enregistrement</string>
+    <string name="Failed_Upload_Image">Erreur de chargement image(s)</string>
+    <string name="Finished_uploading">Téléchargement terminé</string>
+    <string name="Erreur_creation">Erreur création jeu</string>
+    <string name="SuccessGameCreated">Jeu crée</string>
+    <string name="UploadComplete">Téléchargement terminé</string>
+    <string name="QuitGame">Quitter jeu?</string>
+    <string name="InvalidGame">Données invalides</string>
+    <string name="NoGame">Nous ne trouvons pas de jeu</string>
+    <string name="Playing">Vous etes en tyrain de jouer</string>
+    <string name="ErreurRecupJeu">Erreur récupération jeu</string>
+    <string name="Creatememory">Creez votre propre jeu</string>
+    <string name="ChooseSize">Choix taille</string>
+    <string name="Cancel">Annuler</string>
+    <string name="AlreadyWon">Déjà gagné !</string>
+    <string name="InvalidMove">Mouvement invalide !</string>
+    <string name="AlreadyLost">Déjà perdu !</string>
+    <string name="FetchMemory">Chercher jeu</string>
+</resources>

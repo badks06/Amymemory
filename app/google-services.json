@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588466406412",
+    "project_id": "memorycard-304ea",
+    "storage_bucket": "memorycard-304ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588466406412:android:7a3be11e330da834c7da29",
+        "android_client_info": {
+          "package_name": "fr.adksoft.mymemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588466406412-96vel3prill8hvf74jftnsiack2qlu4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyB4hX5qbYNEGAl_3pD9--5gZMrCF4Ixg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588466406412-96vel3prill8hvf74jftnsiack2qlu4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

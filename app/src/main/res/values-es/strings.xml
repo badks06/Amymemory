@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="btnSave">salvavidas</string>
+    <string name="Moves">Mueve:</string>
+    <string name="Level_Easy">Fácil (4x2)</string>
+    <string name="Level_Medium">Medio (6x3)</string>
+    <string name="Level_Hard">Difícil (6 x 4)</string>
+    <string name="Choose_new_size">Elige un nuevo tamaño</string>
+    <string name="Create_Custom_Game">Crear juego personalizado</string>
+    <string name="Download_Custom_Game">Descargar juego personalizado</string>
+    <string name="Score">Puntaje</string>
+    <string name="Best_Score">Mejor puntuación:</string>
+    <string name="Choose_Pic">Elige fotos (0 /</string>
+    <string name="In_Order_To">Para crear un juego personalizado, necesitas tus fotos</string>
+    <string name="saveDataToFirebase">guardar datos en Firebase</string>
+    <string name="game_already_exists">Ya existe un juego con el nombre</string>
+    <string name="choose_another">Por favor elige otro</string>
+    <string name="Error_saving">Error encontrado al guardar el juego de memoria</string>
+    <string name="Error_Firebase">excepción con el almacenamiento de Firebase</string>
+    <string name="Failed_Upload_Image">No se pudo cargar la imagen</string>
+    <string name="Finished_uploading">Terminado de cargar</string>
+    <string name="Erreur_creation">Excepción con la creación del juego</string>
+    <string name="SuccessGameCreated">Juego creado con éxito</string>
+    <string name="UploadComplete">¡Carga completa! juguemos tu juego</string>
+    <string name="QuitGame">¿Salir de tu juego actual?</string>
+    <string name="InvalidGame">Datos de juegos personalizados no válidos de Firestore</string>
+    <string name="NoGame">Lo sentimos, no pudimos encontrar ningún juego de este tipo.</string>
+    <string name="Playing">ahora estas jugando</string>
+    <string name="ErreurRecupJeu">Excepción al recuperar el juego</string>
+    <string name="Creatememory">Crea tu propia tarjeta de memoria</string>
+    <string name="ChooseSize">Elige un nuevo tamaño</string>
+    <string name="Cancel">Cancelar</string>
+    <string name="AlreadyWon">¡Ya ganaste!</string>
+    <string name="InvalidMove">¡Movimiento no válido!</string>
+    <string name="AlreadyLost">¡Ya perdiste!</string>
+    <string name="FetchMemory">Busca el juego de memoria</string>
+</resources>
